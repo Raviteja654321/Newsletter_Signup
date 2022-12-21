@@ -1,5 +1,22 @@
 # Newsletter_Signup
 
+User Interface
+---
+![image](https://user-images.githubusercontent.com/94986564/208851006-eeeff95c-9539-499d-b9dc-2ee2f54189b5.png)
+
+which then saves the user information and then redirects to success and failure pages
+
+On success it redirects to 
+---
+![image](https://user-images.githubusercontent.com/94986564/208851790-6032312e-3afd-4b1b-935f-0c399ed166ce.png)
+
+
+On Failure it redirects to 
+---
+![image](https://user-images.githubusercontent.com/94986564/208851688-39e31b28-6228-4dd9-9230-064dac85adc7.png)
+
+
+
 How to initialize `npm`
 ---
 
